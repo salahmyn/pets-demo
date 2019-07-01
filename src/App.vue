@@ -131,7 +131,6 @@ export default {
         // handel error
         console.log(error);
       });
-    this.getPets();
   }
 };
 </script>
