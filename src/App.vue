@@ -122,7 +122,7 @@ export default {
   },
   created() {
     axios
-      .get("http://5c92dbfae7b1a00014078e61.mockapi.io/owners")
+      .get("https://5c92dbfae7b1a00014078e61.mockapi.io/owners")
       .then(res => {
         this.owners = res.data;
         this.loaded = true;
