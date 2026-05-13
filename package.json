@@ -8,9 +8,9 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.31.1",
     "core-js": "^2.6.5",
-    "vue": "^2.6.10",
+    "vue": "^3.0.0",
     "vuetify": "^1.5.5"
   },
   "devDependencies": {
@@ -23,7 +23,7 @@
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.1",
     "vue-cli-plugin-vuetify": "^0.5.0",
-    "vue-template-compiler": "^2.6.10",
+    "vue-template-compiler": "^2.7.16",
     "vuetify-loader": "^1.0.5"
   },
   "eslintConfig": {
